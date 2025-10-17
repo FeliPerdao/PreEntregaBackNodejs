@@ -79,9 +79,3 @@ export async function actualizarProducto(producto) {
         console.error(error);
     }
 }
-
-// LLAMADAS A LAS FUNCIONES
-//getProducts();
-//addProducts(newProduct);
-//getAProduct("products/20");
-//deleteProducto("products/2");
